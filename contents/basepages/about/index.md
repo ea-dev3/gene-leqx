@@ -1,5 +1,5 @@
 ---
-title: About
+title: Bio
 template: basepage
 image: ./image.png
 ---

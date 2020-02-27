@@ -38,7 +38,9 @@ export default function() {
 
     return (
         <section id="portfolio" className="container">
-            <PortfolioItems data={query} />
+            <>
+                <PortfolioItems data={query} />
+            </>
         </section>
     );
 }

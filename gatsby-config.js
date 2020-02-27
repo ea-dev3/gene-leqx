@@ -1,12 +1,12 @@
 let siteMetadata = {
-    title: `Elemental`,
+    title: `GeneLeqx`,
     capitalizeTitleOnHome: true,
     logo: `/images/logo.png`,
     icon: `/images/icon.png`,
     titleImage: `/images/wall.jpg`,
-    introTag: `PHOTOGRAPHER | VIDEOGRAPHER`,
-    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
-    author: `@_akzhy`,
+    introTag: `ART | MUSIC`,
+    description: `New and exclusive releases below: `,
+    author: `eugeneAlex`,
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
     darkmode: true,
@@ -17,19 +17,19 @@ let siteMetadata = {
             url: "/"
         },
         {
-            name: "ABOUT",
+            name: "BIO",
             url: "/about"
         },
         {
-            name: "BLOG",
+            name: "EXCLUSIVES",
             url: "/blog"
         },
         {
-            name: "PORTFOLIO",
+            name: "MUSIC",
             url: "/portfolio"
         },
         {
-            name: "CONTACT",
+            name: "WAT UP!!",
             url: "/contact"
         }
     ],
@@ -40,36 +40,36 @@ let siteMetadata = {
         },
         {
             name: "GitHub",
-            url: "https://github.com/akzhy/gatsby-starter-elemental"
+            url: "https://github.com/eadev3/geneleqx"
         }
     ],
     social: [
         {
             name: "Facebook",
             icon: "/images/Facebook.svg",
-            url: "#"
+            url: "https://web.facebook.com/geneleqx"
         },
         {
             name: "Twitter",
             icon: "/images/Twitter.svg",
-            url: "#"
+            url: "https://twitter.com/geneleqx"
         },
         {
             name: "Instagram",
             icon: "/images/Instagram.svg",
-            url: "#"
+            url: "https://www.instagram.com/geneleqx"
         },
         {
             name: "Youtube",
             icon: "/images/Youtube.svg",
-            url: "#"
+            url: "https://www.youtube.com/"
         }
     ],
     contact: {
         /* Leave the below value completely empty (no space either) if you don't want a contact form. */
         api_url: "./test.json",
-        description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
-        mail: "hi@akzhy.com",
+        description: `Hello there, get in touch with me `,
+        mail: "contact@geneleqx.com",
         phone: "000-000-0000",
         address: "1234 \nLocation \nLocation"
     }

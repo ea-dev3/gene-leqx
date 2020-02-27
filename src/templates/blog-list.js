@@ -13,7 +13,7 @@ class BlogList extends React.Component {
             return (
                 <section id="blog" className="container">
                     <div className="section-title">
-                        <SectionTitle title="BLOG" />
+                        <SectionTitle title="Exclusives" />
                     </div>
                     <BlogItems data={query} />
                     <Pagination
@@ -31,7 +31,7 @@ class BlogList extends React.Component {
 export default function({ data, pathContext }) {
     return (
         <Layout>
-            <SEO lang="en" title="Blog" />
+            <SEO lang="en" title="Exclusive" />
             <BlogList datas={data} pathContext={pathContext} />
         </Layout>
     );

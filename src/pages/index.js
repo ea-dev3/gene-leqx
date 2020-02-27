@@ -133,7 +133,7 @@ class IndexPage extends React.Component {
                             {this.props.data.site.siteMetadata.description}
                         </p>
                         <a href="#portfolio" className="btn">
-                            SEE WORKS
+                            LISTEN
                         </a>
                     </div>
                     <div className="social-buttons">
